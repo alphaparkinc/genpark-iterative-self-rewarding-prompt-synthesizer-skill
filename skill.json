@@ -1,0 +1,15 @@
+{
+  "name": "genpark-iterative-self-rewarding-prompt-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Iterative self-rewarding LLM judge scoring agent outputs and synthesizing contrastive prompt variations.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "self-rewarding",
+    "llm-judge",
+    "prompt-synthesis",
+    "contrastive-generation",
+    "iterative-refinement"
+  ]
+}
